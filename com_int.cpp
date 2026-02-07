@@ -12,6 +12,7 @@ int main () {
     cout<<"enter the time period"<<endl;
     cin>>t;
      a = p * pow((1 + r/n),(n * t));
+    
     cout<<"the interest is "<<a<<endl;
     return 0;
 
