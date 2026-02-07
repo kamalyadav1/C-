@@ -6,6 +6,7 @@ int main() {
     cin>>c;
     f=(c*9/5)+32;
     cout<<"temperature in the celcius is "<<f<<endl;
+    
     return 0;
 
 }>
