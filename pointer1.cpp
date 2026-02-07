@@ -7,7 +7,7 @@ int main() {
 
         cin >> name[i];
 
-    }
+}
 cout<<"OUTPUT" <<endl;
     for (int i=0; i<11; i++) {
       char *ptr = &name[i];
