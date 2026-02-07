@@ -9,6 +9,7 @@ int main () {
     cout<<"enter the rate for the simple interest";
     cin>>r;
     s_i=(p*t*r)/100;
+    
     cout<<"the simple interest is "<<s_i<<endl;
     return 0;
 
