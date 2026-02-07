@@ -9,6 +9,7 @@ int main() {
     y=x;
     x=temp;
     cout<<x<<endl;
+    
     cout<<y<<endl;
     return 0;
 
