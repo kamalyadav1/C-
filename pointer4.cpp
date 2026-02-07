@@ -6,5 +6,6 @@ int main() {
     cout << "num = " << num << endl;
     int n=(int)*ptr;
     cout << "n = " << n<< endl;
+    
     return 0;
 }
