@@ -9,6 +9,7 @@ int main() {
 
     }
     else {
+        
         cout<<"given number is odd"<<endl;
     }
     return 0;
