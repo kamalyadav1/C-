@@ -9,6 +9,7 @@ int main () {
 
     for (int i=0; i<=49; i++) {
        char *ptr=&arr[i];
+        
         cout<<*ptr;
 
     }
