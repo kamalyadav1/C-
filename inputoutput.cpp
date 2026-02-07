@@ -5,5 +5,6 @@ int main() {
     cout<<"enter any thing which you want to print"<<endl;
     cin>>x;
     cout<<x<<endl;
+    
     return 0;
 }
