@@ -9,6 +9,7 @@ int main () {
     area = 3.14* *ptr * *ptr;
     cout << "Area = " << area << endl;
     
+    
     return 0;
 
 }
