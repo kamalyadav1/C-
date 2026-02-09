@@ -21,5 +21,6 @@ int main() {
     else {
         cout<<"this given number is not palidrome";
     }
+    
     return 0;
 }
