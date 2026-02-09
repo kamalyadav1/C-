@@ -1,4 +1,4 @@
-checking the eithe the triangle is possible with this three sides or not
+//checking the either the triangle is possible with this three sides or not
 #include<iostream>
 using namespace std;
 int main()
