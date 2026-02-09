@@ -8,6 +8,7 @@ int main() {
         cout<<b<<" ";
         a=a+b;
         b=b+a;
+        
     }
     return 0;
 }

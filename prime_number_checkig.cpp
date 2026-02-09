@@ -13,6 +13,7 @@ int main() {
     if (count==2) {
         cout<<"prime number"<<endl;
     }
+        
     else {
         cout<<" this number is not prime number"<<endl;
     }

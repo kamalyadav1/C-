@@ -19,6 +19,7 @@ int main() {
     }
 
     else {
+        
         cout<<"this given number is not Armstrong";
     }
     return 0;
