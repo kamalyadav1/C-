@@ -8,6 +8,7 @@ int main() {
     cout<<"enter any number  ";
     cin>>n;
     while (n>0) {
+        
         l=n % 10;
        sum=sum+l;
         n=n/10;
