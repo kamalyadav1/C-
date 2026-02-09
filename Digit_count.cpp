@@ -10,6 +10,7 @@ int main() {
         count=count+1;
 
     }
+    
     cout<<"The number of digits in the given number is : "<<count;
     return 0;
 }
