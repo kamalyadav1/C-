@@ -7,6 +7,7 @@ int main() {
     cin>>n;
     cout<<"natural number are"<<endl;
     for (int i=1; i<=n; i++) {
+        
         sum +=i;
     }
     cout<<"the sum of the first N natural number is :"<<sum<<endl;
