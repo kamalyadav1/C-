@@ -21,6 +21,7 @@ int main() {
     else {
         
         cout<<"this given number is not Armstrong";
+        ///gfgqsag
     }
     return 0;
 }
