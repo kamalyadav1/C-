@@ -10,7 +10,7 @@ public:
         marks = m;
     }
 
-    int getMarks() {
+    void getMarks() {
         return marks;
     }
 };
